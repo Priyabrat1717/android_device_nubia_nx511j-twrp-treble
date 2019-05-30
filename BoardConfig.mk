@@ -87,7 +87,7 @@ TW_INCLUDE_CRYPTO := true
 TW_CRYPTO_USE_SBIN_VOLD := true
 
 # Asian region languages
-TW_EXTRA_LANGUAGES := tr
+TW_EXTRA_LANGUAGES := true
 
 # Treble
 TARGET_COPY_OUT_VENDOR := vendor
