@@ -12,7 +12,7 @@ PRODUCT_PACKAGES += \
     charger
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := mirage01a_msm8939_64
+PRODUCT_DEVICE := mirage01a
 PRODUCT_NAME := omni_mirage01a
 PRODUCT_BRAND := LYF
 PRODUCT_MODEL := LS-5002 (TWRP)
