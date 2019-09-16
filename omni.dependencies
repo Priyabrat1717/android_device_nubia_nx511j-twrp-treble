@@ -1,12 +1,6 @@
 [
   {
     "remote":"github",
-    "repository": "Priyabrat1717/Destructive_test",
-    "target_path": "kernel/LYF/mirage01a",
-    "revision": "treble_mirage"
-  }
-  {
-    "remote":"github",
     "repository": "omnirom/android_external_busybox",
     "target_path": "external/busybox",
     "revision": "android-9.0"
