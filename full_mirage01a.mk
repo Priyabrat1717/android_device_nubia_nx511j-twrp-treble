@@ -27,8 +27,8 @@ PRODUCT_PACKAGES += \
 
 # Kernel
 PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/recovery/kernel:kernel \
-    $(DEVICE_PATH)/recovery/dt.img:dt.img 
+    $(LOCAL_PATH)/recovery/kernel:kernel \
+    $(LOCAL_PATH)/recovery/dt.img:dt.img 
 
 # sdcardfs
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -36,5 +36,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Time Zone data for recovery
 PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
+    $(LOCAL_PATH)/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
