@@ -1,9 +1,9 @@
 [
   {
     "remote":"github",
-    "repository": "Priyabrat1717/Legendary_kernel_mirage01a",
+    "repository": "Priyabrat1717/Destructive_test",
     "target_path": "kernel/LYF/mirage01a",
-    "revision": "lineage-16.0"
+    "revision": "treble_mirage"
   }
   {
     "remote":"github",
