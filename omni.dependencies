@@ -1,9 +1,9 @@
 [
   {
     "remote":"github",
-    "repository": "TTTT555/android_kernel_nubia_nx511j",
-    "target_path": "kernel/nubia/nx511j",
-    "revision": "lineage-16.0"
+    "repository": "Priyabrat1717/d-test",
+    "target_path": "kernel/LYF/mirage01a",
+    "revision": "treble_mirage"
   }
   {
     "remote":"github",
