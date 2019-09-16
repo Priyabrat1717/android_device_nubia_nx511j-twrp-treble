@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-ifneq ($(filter nx511j,$(TARGET_DEVICE)),)
+ifneq ($(filter mirage01a,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)
 
