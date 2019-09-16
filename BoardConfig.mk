@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/nubia/nx511j
+DEVICE_PATH := device/LYF/mirage01a
 
 # Architecture
 TARGET_ARCH := arm64
@@ -44,8 +44,8 @@ BOARD_KERNEL_SEPARATED_DT := true
 BOARD_KERNEL_TAGS_OFFSET := 0x01E00000
 BOARD_RAMDISK_OFFSET := 0x02000000
 LZMA_RAMDISK_TARGETS := recovery
-TARGET_KERNEL_CONFIG := lineageos_nx511j_defconfig
-TARGET_KERNEL_SOURCE := kernel/nubia/nx511j
+TARGET_KERNEL_CONFIG := destructive_defconfig
+TARGET_KERNEL_SOURCE := kernel/LYF/mirage01a
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 
