@@ -19,10 +19,5 @@ PRODUCT_BRAND := LYF
 PRODUCT_MODEL := LYF Water 1 (TWRP)
 PRODUCT_MANUFACTURER := LYF
 
-# Enable stock zip packages flash
-PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
-    ro.build.product=LS-5015 \
-    ro.product.device=LS-5002 \
-    ro.product.model=LYF Water 1
 
 ALLOW_MISSING_DEPENDENCIES := true
