@@ -16,13 +16,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_DEVICE := mirage01a
 PRODUCT_NAME := omni_mirage01a
 PRODUCT_BRAND := LYF
-PRODUCT_MODEL := LS-5002 (TWRP)
+PRODUCT_MODEL := LYF Water 1 (TWRP)
 PRODUCT_MANUFACTURER := LYF
 
 # Enable stock zip packages flash
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
-    ro.build.product=mirage01a_msm8916_64 \
-    ro.product.device=mirage01a_msm8939_64 \
-    ro.product.model=LS-5002
+    ro.build.product=LS-5015 \
+    ro.product.device=LS-5002 \
+    ro.product.model=LYF Water 1
 
 ALLOW_MISSING_DEPENDENCIES := true
