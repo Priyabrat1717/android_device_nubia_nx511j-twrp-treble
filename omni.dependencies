@@ -1,8 +1,8 @@
 [
   {
     "remote":"github",
-    "repository": "TeamWin/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "revision":"android-9.0"
+    "repository": "omnirom/android_external_busybox",
+    "target_path": "external/busybox",
+    "revision": "android-9.0"
   }
 ]
